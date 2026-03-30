@@ -1,8 +1,8 @@
 ---
 title: About
 description: 
-published: false
-date: 2026-03-30T05:28:14.156Z
+published: true
+date: 2026-03-30T05:28:53.122Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T05:28:14.156Z
