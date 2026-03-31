@@ -2,7 +2,7 @@
 title: Pokemon Violet Soulink Nuzlocke
 description: 
 published: true
-date: 2025-04-06T01:15:59.822Z
+date: 2026-03-31T17:14:59.318Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-05T21:34:28.340Z
@@ -54,7 +54,7 @@ Level 48
 
 
 ## Map Areas
-![violet_map_3.jpg](/violet_map_3.jpg)
+![violet_map_3.jpg](https://cdn.todoprogramming.org/violet_map_3.jpg)
 
 
 ## Mon Links
