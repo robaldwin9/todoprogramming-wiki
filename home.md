@@ -2,7 +2,7 @@
 title: Home
 description: the home page
 published: true
-date: 2026-03-30T04:07:13.309Z
+date: 2026-06-14T23:04:56.895Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-13T18:17:53.378Z
@@ -26,5 +26,5 @@ A wiki for self-hosting programming practical how-tos, configs, and notes.
  - APIs & Scripting
  
 ## 📝 Blog
-[Opinions and experiences](blog.yourdomain.com)
+[Opinions and experiences](https://blog.todoprogramming.org/)
  
