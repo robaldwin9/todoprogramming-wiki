@@ -2,13 +2,13 @@
 title: Fedora  BTRFS Snapshots
 description: 
 published: true
-date: 2026-06-14T16:49:47.901Z
+date: 2026-06-14T16:55:20.857Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-14T16:03:24.018Z
 ---
 
-# Fedora BTRFS Snapshorts
+# Fedora BTRFS Snapshots
 Runs through process of setting system backs with BTRFS formated drive on fedora
 
 ## Create Snapshot Locations
